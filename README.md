@@ -22,6 +22,7 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
   <img src="./icon/mysql-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
   <img src="./icon/c-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
   <img src="./icon/cplusplus-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/asm.png" title="Java" alt="c" width="40" height="40"/>&nbsp;
 </div>
 
 ## Connect with me:
