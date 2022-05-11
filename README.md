@@ -3,7 +3,7 @@
 I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 <br>
 
-- 🔭 I’m currently working as Technical support and Fullstack Web Developer
+- 🔭 I’m currently working as Technical support and freelance Fullstack Web Developer
 - 🌱 I’m currently learning PHP, NASM and everything about low level stuff
 - 👯 I’m looking to reference about low level stuff
 - 🥅 2022 Goals: Improve hard skill
