@@ -10,7 +10,7 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 - ⚡ Fun fact: I love game and low level stuff and everything under the hood
 
 <br>
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 ## Connect with me:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rino-Saputra)](https://github.com/Rino-Saputra/rino-Saputra) -->
