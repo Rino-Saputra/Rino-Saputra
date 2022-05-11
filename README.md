@@ -12,7 +12,7 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 <br>
 
 ## Connect with me:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rino-Saputra)](https://github.com/Rino-Saputra/rino-Saputra)
 [![Linkedin: Rino](https://img.shields.io/badge/-Rino%20Saputra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rino-saputra-3b8402235/)
 [![Facebook: Rino](https://img.shields.io/badge/-Rino-DD2A7D?style=flat&logo=Instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100014030110091&_rdc=1&_rdr)
 [![Whatsapp: Rino](https://img.shields.io/badge/+6283110714321-25D366?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+6283110714321)
