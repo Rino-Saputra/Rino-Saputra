@@ -1,4 +1,5 @@
 # Hi there <img src="./icon/Hi.gif" height="32" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rino-Saputra&label=Profile%20views&color=0e75b6&style=flat" alt="rino" /> </p>
 
 I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 <br>
