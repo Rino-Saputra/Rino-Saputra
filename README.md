@@ -13,17 +13,17 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 <br>
 :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="./icon/react-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/bootstrap-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/express-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/php-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/handlebars-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/sequelize-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/postgresql-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/mysql-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/c-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/cplusplus-original.svg" title="Java" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/asm.png" title="Java" alt="c" width="60" height="40"/>&nbsp;
+  <img src="./icon/react-original.svg" title="React" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/bootstrap-original.svg" title="Bootrstrap" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/express-original.svg" title="Express" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/php-original.svg" title="Php" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/handlebars-original.svg" title="Handlebar Js" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/sequelize-original.svg" title="Sequelize" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/postgresql-original.svg" title="Postgre" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/mysql-original.svg" title="Mysql" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/cplusplus-original.svg" title="C++" alt="c" width="40" height="40"/>&nbsp;
+  <img src="./icon/asm.png" title="Java" alt="Nasm" width="60" height="40"/>&nbsp;
 </div>
 
 ## Connect with me:
