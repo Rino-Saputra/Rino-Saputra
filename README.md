@@ -23,7 +23,7 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
   <img src="./icon/mysql-original.svg" title="Mysql" alt="c" width="40" height="40"/>&nbsp;
   <img src="./icon/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
   <img src="./icon/cplusplus-original.svg" title="C++" alt="c" width="40" height="40"/>&nbsp;
-  <img src="./icon/asm.png" title="Java" alt="Nasm" width="60" height="40"/>&nbsp;
+  <img src="./icon/asm.png" title="asm x86" alt="Nasm" width="60" height="40"/>&nbsp;
 </div>
 
 ## Connect with me:
