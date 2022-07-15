@@ -5,10 +5,10 @@ I'm Rino Saputra ~ aka <a href="https://github.com/Rino-Saputra">Rino</a>
 <br>
 
 - 🔭 I’m currently working as Technical support and freelance Fullstack Web Developer
-- 🌱 I’m currently learning PHP, NASM and everything about low level stuff
+- 🌱 I’m currently learning PHP,x86_64 architercture and everything about low level stuff
 - 👯 I’m looking to reference about low level stuff
 - 🥅 2022 Goals: Improve hard skill
-- ⚡ Fun fact: I love game and low level stuff and everything under the hood
+- ⚡ Fun fact: I love gaming, low level stuff and everything under the hood
 
 <br>
 :hammer_and_wrench: Languages and Tools :
